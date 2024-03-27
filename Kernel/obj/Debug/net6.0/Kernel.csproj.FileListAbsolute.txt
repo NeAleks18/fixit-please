@@ -1,0 +1,12 @@
+F:\OS\CSharpOS\Kernel\bin\Debug\net6.0\Kernel.deps.json
+F:\OS\CSharpOS\Kernel\bin\Debug\net6.0\Kernel.dll
+F:\OS\CSharpOS\Kernel\bin\Debug\net6.0\Kernel.pdb
+F:\OS\CSharpOS\Kernel\obj\Debug\net6.0\Kernel.csproj.AssemblyReference.cache
+F:\OS\CSharpOS\Kernel\obj\Debug\net6.0\Kernel.GeneratedMSBuildEditorConfig.editorconfig
+F:\OS\CSharpOS\Kernel\obj\Debug\net6.0\Kernel.AssemblyInfoInputs.cache
+F:\OS\CSharpOS\Kernel\obj\Debug\net6.0\Kernel.AssemblyInfo.cs
+F:\OS\CSharpOS\Kernel\obj\Debug\net6.0\Kernel.csproj.CoreCompileInputs.cache
+F:\OS\CSharpOS\Kernel\obj\Debug\net6.0\Kernel.dll
+F:\OS\CSharpOS\Kernel\obj\Debug\net6.0\refint\Kernel.dll
+F:\OS\CSharpOS\Kernel\obj\Debug\net6.0\Kernel.pdb
+F:\OS\CSharpOS\Kernel\obj\Debug\net6.0\ref\Kernel.dll
